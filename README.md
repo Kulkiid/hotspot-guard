@@ -141,4 +141,4 @@ MIT. See `LICENSE`.
 
 ---
 
-Built by **<your-name>** while learning Bash and cybersecurity. If it helped you, give it a ⭐.
+Built by **<Blessing Mudimba>** while learning Bash and cybersecurity. If it helped you, give it a ⭐.
