@@ -1,0 +1,12 @@
+# Personal data created by Hotspot Guard (MAC addresses, device names)
+hotspot-known.txt
+hotspot-seen.tsv
+hotspot-history.txt
+hotspot-report.txt
+hotspot-export-*
+.hotspot-*
+
+# Editor / OS junk
+.DS_Store
+Thumbs.db
+*.tmp
